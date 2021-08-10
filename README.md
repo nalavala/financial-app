@@ -108,7 +108,7 @@
     "card_name" : 4342.33,
     "type" : "SAVINGS",
     "expire_date" : "09/23",
-    "start_date" : "08/20"
+    "start_date" : "08/20",
     "cvv" : "069"
 }
 ```
@@ -139,7 +139,7 @@
     "pan" : "BEOPN43l",
     "phone_number" : 7657766,
     "demat_id" : 12323232,
-    "email" : "tet@test.com"
+    "email" : "tet@test.com",
     "dp_id" : 12081600,
     "BO_id" : 79786115,
     "bank_account_ids" : []
